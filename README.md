@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn programming and expand my knowledge
 - 🌱 I’m currently learning the Java language
 - 💞️ I’m looking to collaborate on with open and simple projects
-- 📫 How to reach me by email karencrosaria@gmail.com
+- 📫 How to reach me 
 
 <!---
 karencrosaria/karencrosaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

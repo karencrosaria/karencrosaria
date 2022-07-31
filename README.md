@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Karen Cristina</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Karen Cristina</h1>
 <h3 align="center">Junior Fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karencrosaria&label=Profile%20views&color=0e75b6&style=flat" alt="karencrosaria" /> </p>
+
+
+
 
 - 🌱 I’m currently learning **Java, JS, HTML,CSS**
 
@@ -19,7 +22,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karencrosaria&" alt="karencrosaria" /></p>
 
-
+⭐️ from [Karen Cristina](https://github.com/karencrosaria)
 
 <!---
 karencrosaria/karencrosaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

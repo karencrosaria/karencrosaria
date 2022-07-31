@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karen Cristina</h1>
-<h2 align="center">Frontend Developer</h2>
+<h2 align="center">Junior Fullstack Developer</h2>
 - 👀 I’m interested in learn programming and expand my knowledge<br>
-- 🌱 I’m currently learning **Java, JS, HTML,CSS**<br>
+- 🌱 I’m currently learning ** JS, HTML,CSS, Bootstrap, Node JS **<br>
 - 💞️ I’m looking to collaborate on with open and simple projects<br>
 
 <h3 align="center">Languages and Tools:</h3>
